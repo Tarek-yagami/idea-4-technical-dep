@@ -1,0 +1,306 @@
+[
+    {
+        "name": "challenge-creator",
+        "type": "http",
+        "category": "web",
+        "node_port": 30700,
+        "port": 1700,
+        "subdomain": "challenge-creator"
+    },
+    {
+        "name": "baby-lfi",
+        "type": "http",
+        "category": "web",
+        "node_port": 30701,
+        "port": 1701,
+        "subdomain": "baby-lfi"
+    },
+    {
+        "name": "baby-lfi-2",
+        "type": "http",
+        "category": "web",
+        "node_port": 30702,
+        "port": 1702,
+        "subdomain": "baby-lfi-2"
+    },
+    {
+        "name": "headache",
+        "type": "http",
+        "category": "web",
+        "node_port": 30703,
+        "port": 1703,
+        "subdomain": "headache"
+    },
+    {
+        "name": "lfi",
+        "type": "http",
+        "category": "web",
+        "node_port": 30704,
+        "port": 1704,
+        "subdomain": "lfi"
+    },
+    {
+        "name": "nextgen-1",
+        "type": "http",
+        "category": "web",
+        "node_port": 30705,
+        "port": 1705,
+        "subdomain": "nextgen-1"
+    },
+    {
+        "name": "nextgen-2",
+        "type": "http",
+        "category": "web",
+        "node_port": 30706,
+        "port": 1706,
+        "subdomain": "nextgen-2"
+    },
+    {
+        "name": "whois",
+        "type": "http",
+        "category": "web",
+        "node_port": 30707,
+        "port": 1707,
+        "subdomain": "whois"
+    },
+    {
+        "name": "grey-box",
+        "type": "http",
+        "category": "web",
+        "node_port": 30708,
+        "port": 1708,
+        "subdomain": "grey-box"
+    },
+    {
+        "name": "whois-fixed",
+        "type": "http",
+        "category": "web",
+        "node_port": 30712,
+        "port": 1712,
+        "subdomain": "whois-fixed"
+    },
+    {
+        "name": "byte-by-byte",
+        "type": "tcp",
+        "category": "crypto",
+        "node_port": 30800,
+        "port": 1800,
+        "subdomain": "byte-by-byte"
+    },
+    {
+        "name": "rsimple",
+        "type": "tcp",
+        "category": "crypto",
+        "node_port": 30801,
+        "port": 1801,
+        "subdomain": "rsimple"
+    },
+    {
+        "name": "zero-to-hero",
+        "type": "tcp",
+        "category": "programming",
+        "node_port": 30400,
+        "port": 1400,
+        "subdomain": "zero-to-hero"
+    },
+    {
+        "name": "rps",
+        "type": "tcp",
+        "category": "programming",
+        "node_port": 30401,
+        "port": 1401,
+        "subdomain": "rps"
+    },
+    {
+        "name": "chess-ini",
+        "type": "tcp",
+        "category": "programming",
+        "node_port": 30402,
+        "port": 1402,
+        "subdomain": "chess-ini"
+    },
+    {
+        "name": "JsandboxS",
+        "type": "tcp",
+        "category": "jail",
+        "node_port": 30350,
+        "port": 1350,
+        "subdomain": "jsandboxs"
+    },
+    {
+        "name": "less_jail",
+        "type": "tcp",
+        "category": "jail",
+        "node_port": 30351,
+        "port": 1351,
+        "subdomain": "less-jail"
+    },
+    {
+        "name": "pyjail",
+        "type": "tcp",
+        "category": "jail",
+        "node_port": 30352,
+        "port": 1352,
+        "subdomain": "pyjail"
+    },
+    {
+        "name": "pickle-games-1",
+        "type": "tcp",
+        "category": "jail",
+        "node_port": 30353,
+        "port": 1353,
+        "subdomain": "pickle-games-1"
+    },
+    {
+        "name": "pickle-games-2",
+        "type": "tcp",
+        "category": "jail",
+        "node_port": 30354,
+        "port": 1354,
+        "subdomain": "pickle-games-2"
+    },
+    {
+        "name": "pickle-games-3",
+        "type": "tcp",
+        "category": "jail",
+        "node_port": 30355,
+        "port": 1355,
+        "subdomain": "pickle-games-3"
+    },
+    {
+        "name": "pickle-games-4",
+        "type": "tcp",
+        "category": "jail",
+        "node_port": 30356,
+        "port": 1356,
+        "subdomain": "pickle-games-4"
+    },
+    {
+        "name": "pyjail2",
+        "type": "tcp",
+        "category": "jail",
+        "node_port": 30357,
+        "port": 1357,
+        "subdomain": "pyjail2"
+    },
+    {
+        "name": "correct",
+        "type": "tcp",
+        "category": "jail",
+        "node_port": 30358,
+        "port": 1358,
+        "subdomain": "correct"
+    },
+    {
+        "name": "baby-jail1",
+        "type": "tcp",
+        "category": "jail",
+        "node_port": 30359,
+        "port": 1359,
+        "subdomain": "baby-jail1"
+    },
+    {
+        "name": "baby-jail2",
+        "type": "tcp",
+        "category": "jail",
+        "node_port": 30360,
+        "port": 1360,
+        "subdomain": "baby-jail2"
+    },
+    {
+        "name": "remote",
+        "type": "tcp",
+        "category": "linux",
+        "node_port": 30200,
+        "port": 1200,
+        "subdomain": "remote"
+    },
+    {
+        "name": "welcome",
+        "type": "tcp",
+        "category": "linux",
+        "node_port": 30201,
+        "port": 1201,
+        "subdomain": "welcome"
+    },
+    {
+        "name": "diff",
+        "type": "tcp",
+        "category": "linux",
+        "node_port": 30202,
+        "port": 1202,
+        "subdomain": "diff"
+    },
+    {
+        "name": "nutshell1",
+        "type": "tcp",
+        "category": "linux",
+        "node_port": 30203,
+        "port": 1203,
+        "subdomain": "nutshell1"
+    },
+    {
+        "name": "nutshell2",
+        "type": "tcp",
+        "category": "linux",
+        "node_port": 30204,
+        "port": 1204,
+        "subdomain": "nutshell2"
+    },
+    {
+        "name": "nutshell-supreme",
+        "type": "tcp",
+        "category": "linux",
+        "node_port": 30205,
+        "port": 1205,
+        "subdomain": "nutshell-supreme"
+    },
+    {
+        "name": "stronk-boi",
+        "type": "tcp",
+        "category": "pwn",
+        "node_port": 30500,
+        "port": 1500,
+        "subdomain": "stronk-boi"
+    },
+    {
+        "name": "no-way-out",
+        "type": "tcp",
+        "category": "pwn",
+        "node_port": 30501,
+        "port": 1501,
+        "subdomain": "no-way-out"
+    },
+    {
+        "name": "bof0",
+        "type": "tcp",
+        "category": "pwn",
+        "node_port": 30502,
+        "port": 1502,
+        "subdomain": "bof0"
+    },
+    {
+        "name": "bof1",
+        "type": "tcp",
+        "category": "pwn",
+        "node_port": 30503,
+        "port": 1503,
+        "subdomain": "bof1"
+    },
+    {
+        "name": "my-first-ncat",
+        "type": "tcp",
+        "category": "warmup",
+        "node_port": 30650,
+        "port": 1650,
+        "subdomain": "my-first-ncat"
+    },
+    {
+        "name": "my-first-ssh",
+        "type": "tcp",
+        "category": "warmup",
+        "node_port": 30651,
+        "port": 1651,
+        "subdomain": "my-first-ssh"
+    }
+]
