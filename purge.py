@@ -8,7 +8,7 @@ def purge():
     pythonlist=json.loads(jsondata)
     for i in pythonlist :
         the_merge="-".join("allow",i.get("category"),i.get("name"))
-        projectid="project id"
+        projectid="tech-idea-4"
         delete_firewall_rule(project_id=projectid,firewall_rule_name=the_merge)
         
     return 
